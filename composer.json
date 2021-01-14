@@ -3,7 +3,6 @@
     "description": "Default theme of the SlimCMS",
     "type": "slimcms-theme",
     "license": "MIT",
-    "version": "1.0",
     "authors": [
         {
             "name": "akiosarkiz",
